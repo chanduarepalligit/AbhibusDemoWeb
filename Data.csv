@@ -1,0 +1,3 @@
+FromCity,ToCity,BookingDay,BusTypeFilter,ServiceNumber,Seats,Gender,Age,ConcessionType,PaymemtGateway
+Vijayawada,Bangalore,3,Non-Ac,3723,3,F:m:f,66:26:27,Senior:General:Journ,PHONEPE
+Hyderabad,Vijayawada,2,AC,3333,4,f:f:m:f,21:29:32:20,General:General:General:General,ebs
